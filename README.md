@@ -6,7 +6,8 @@
 * Ao digitar um número errado você tem uma nova chance de acertar a numeração.
 * A cada tentativa errada é informado se o número secreto é maior ou menor a tentativa.
 
-![Static Badge](https://img.shields.io/badge/Projeto%20em%20desenvolvimento?style=social&logo=gitlab&logoColor=gree&labelColor=black)
+![Static Badge](https://img.shields.io/badge/https%3A%2F%2Fgithub.com%2Ficcbuldier%2Fprojeto-inicial-teste%2Ftree%2Fmain)
+
 
 
 

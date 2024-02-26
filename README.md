@@ -1,4 +1,4 @@
-<h1 align="center"> TESTE JOGO DO NUMERO SECRETO </h1>
+<h1 align="center"> TESTE - JOGO DO NUMERO SECRETO </h1>
 
 ![Apresentação PLR](https://github.com/iccbuldier/projeto-inicial-teste/assets/159490514/187ea634-3620-4abd-8f5d-36ad108924ef)
 
